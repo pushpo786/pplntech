@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-29T20:55:09 EDT" name="Regression" finished-at="2021-04-29T20:55:40 EDT" duration-ms="30889">
+    <groups>
+    </groups>
+    <test started-at="2021-04-29T20:55:09 EDT" name="adhoc" finished-at="2021-04-29T20:55:40 EDT" duration-ms="30889">
+      <class name="com.PeopleNTech.Framework.om.PeopleNTech.Frame.HomeDepotCreate">
+        <test-method is-config="true" signature="browser(java.lang.String, java.lang.String)[pri:0, instance:com.PeopleNTech.Framework.om.PeopleNTech.Frame.HomeDepotCreate@5939a379]" started-at="2021-04-29T20:55:09 EDT" name="browser" finished-at="2021-04-29T20:55:21 EDT" duration-ms="11429" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.homedepot.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="f()[pri:0, instance:com.PeopleNTech.Framework.om.PeopleNTech.Frame.HomeDepotCreate@5939a379]" started-at="2021-04-29T20:55:21 EDT" name="f" finished-at="2021-04-29T20:55:39 EDT" duration-ms="18766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.PeopleNTech.Framework.om.PeopleNTech.Frame.HomeDepotCreate@5939a379]" started-at="2021-04-29T20:55:40 EDT" name="afterClass" finished-at="2021-04-29T20:55:40 EDT" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.PeopleNTech.Framework.om.PeopleNTech.Frame.HomeDepotCreate -->
+    </test> <!-- adhoc -->
+  </suite> <!-- Regression -->
+</testng-results>
